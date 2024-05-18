@@ -1,16 +1,2 @@
-# paisa_management
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# PAISA-MANAGER
+This Repository contain the flutter project of a Money Management app.All its dependencies and dev dependencies are available inside it.Each screens used in this project is categforized based on their usage and the analyzing of code is therefore easier.
